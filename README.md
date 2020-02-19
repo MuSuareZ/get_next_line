@@ -22,4 +22,6 @@ In order to compile and test the function, you must type:
 This should create an executable file called **a.out**
 
 In order to run the executable, type:
-> ./a.out <file name you would like to display line by line>
+> ./a.out "file name you would like to display line by line"
+
+***PS: You should always ignore the quotation marks, they are just comments of what you should input***
